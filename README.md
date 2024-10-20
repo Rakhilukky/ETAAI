@@ -1,2 +1,2 @@
-# ETAAI
-EleTina Advance Artificial Intelligence. A first Advance AI for HTTP Attacks
+# EleTina Advance Artificial Intelligence (ETAAI)
+a First Advance AI tool for HTTP Attacks and Bypassing Security faster and better than human.
