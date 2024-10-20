@@ -73,8 +73,8 @@ This project is licensed under the **[MIT License](LICENSE)**. Feel free to use,
 
 ## 📧 Contact
 For questions, support, or feedback, reach out to us at: 
-- Email: **support@etaii.com**
-- GitHub: [Your Username](https://github.com/your-username)
+- github: [Rakhilukky](https://github.com/Rakhilukky/)
+- Telegram: [Rakhilukky](https://t.me/Rakhilukky)
 
 ---
 
@@ -84,9 +84,4 @@ Special thanks to the amazing community of developers, security researchers, and
 ---
 
 **EleTina Advance Artificial Intelligence (ETAAI)** — The future of HTTP attacks and security bypassing is here. 💻🔐
-
----
-
-Hope this README file adds that extra ✨ cool factor to your ETAAI project!
-
 
