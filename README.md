@@ -46,7 +46,7 @@ ETAAI leverages a powerful AI engine to automatically identify vulnerabilities a
 
 ## 📦 Installation
 At Present ITs Still on Developing if you want to contribute or develop or get the pre-order 
-==> @Rakhilukky (telegram)
+ @Rakhilukky (telegram)
 
 ---
 
