@@ -1,10 +1,11 @@
 # 🌐 EleTina Advance Artificial Intelligence (ETAAI) 💻
-
+<p align="center">
 [![Current Version](https://img.shields.io/badge/version-0.2-blue)](https://github.com/Rakhilukky/ETAAI/releases)
 [![Status](https://img.shields.io/badge/status-UnderTesting-brightgreen)](https://github.com/Rakhilukky/ETAAI)
 [![License](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
 [![Fair Use](https://img.shields.io/badge/Fair%20Use-Compliance-yellow)](https://en.wikipedia.org/wiki/Fair_use)
-[![Virus Check](https://img.shields.io/badge/Virus%20Check-Passed-success)](https://example.com/virus-check-report)
+[![Virus Check](https://img.shields.io/badge/Virus%20Check-Passed-success)](https://www.virustotal.com/gui/file/a0d221c19ec228ee5385d894faff575bb0468a288b289c0dc04b73ca0ffce9c8/detection)
+</p>
 
 Welcome to **ETAAI** — the first advanced AI tool that revolutionizes HTTP attacks and bypassing security, making it faster, smarter, and more efficient than human capabilities! 🚀✨
 
