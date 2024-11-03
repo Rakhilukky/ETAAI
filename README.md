@@ -1,7 +1,7 @@
 # 🌐 EleTina Advance Artificial Intelligence (ETAAI) 💻
 
-[![Current Version](https://img.shields.io/badge/version-1.0.0-blue)](https://github.com/Rakhilukky/ETAAI/releases)
-[![Status](https://img.shields.io/badge/status-active-brightgreen)](https://github.com/Rakhilukky/ETAAI)
+[![Current Version](https://img.shields.io/badge/version-0.2-blue)](https://github.com/Rakhilukky/ETAAI/releases)
+[![Status](https://img.shields.io/badge/status-UnderTesting-brightgreen)](https://github.com/Rakhilukky/ETAAI)
 [![License](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
 [![Fair Use](https://img.shields.io/badge/Fair%20Use-Compliance-yellow)](https://en.wikipedia.org/wiki/Fair_use)
 [![Virus Check](https://img.shields.io/badge/Virus%20Check-Passed-success)](https://example.com/virus-check-report)
