@@ -50,7 +50,7 @@ ETAAI leverages a powerful AI engine to automatically identify vulnerabilities a
 - Machine Learning & AI Algorithms
 - HTTP Attack Mechanisms
   
-![Alt Text](https://i.ibb.co/QXyFkb4/82yzW9Y.jpg)
+![Alt Visual](https://i.ibb.co/QXyFkb4/82yzW9Y.jpg)
 
 ---
 
