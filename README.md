@@ -1,5 +1,6 @@
 # 🌐 EleTina Advance Artificial Intelligence (ETAAI) 💻
 
+
 [![Current Version](https://img.shields.io/badge/version-0.2-blue)](https://github.com/Rakhilukky/ETAAI/releases)
 [![Status](https://img.shields.io/badge/status-UnderTesting-brightgreen)](https://github.com/Rakhilukky/ETAAI)
 [![License](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
