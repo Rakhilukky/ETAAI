@@ -49,7 +49,7 @@ ETAAI leverages a powerful AI engine to automatically identify vulnerabilities a
 - Lua (little Touch up)
 - Machine Learning & AI Algorithms
 - HTTP Attack Mechanisms
-
+![alt DEmo](https://github.com/Rakhilukky/ETAAI/blob/images/languages.png?raw=true)
 ---
 
 ## 📦 Installation
