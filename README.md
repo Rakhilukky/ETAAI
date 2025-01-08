@@ -1,7 +1,7 @@
 # 🌐 EleTina Advance Artificial Intelligence (ETAAI) 💻
 
 
-[![Current Version](https://img.shields.io/badge/version-0.2-blue)](https://github.com/Rakhilukky/ETAAI/releases)
+[![Current Version](https://img.shields.io/badge/version-0.4-blue)](https://github.com/Rakhilukky/ETAAI/releases)
 [![Status](https://img.shields.io/badge/status-UnderTesting-brightgreen)](https://github.com/Rakhilukky/ETAAI)
 [![License](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
 [![Fair Use](https://img.shields.io/badge/Fair%20Use-Compliance-yellow)](https://en.wikipedia.org/wiki/Fair_use)
@@ -22,6 +22,8 @@ Welcome to **ETAAI** — the first advanced AI tool that revolutionizes HTTP att
 - 🖼️ **Image Captchas**: Solves even the trickiest image-based CAPTCHAs.
 - 🔢 **Sum Solving**: Easily bypasses arithmetic and logical sum-based protection.
 - 🛡️ **JSI / UST**: Advanced scripts, no problem! ETAAI pierces through these layers too.
+- **Hcaptcha (Training)** : A complicated and Extremely difficult to Solve.
+- **Recaptcha v2, v3, v3 Audio, v4 invisible**: (some under Training) A Popular Anti-Bot Service 
 
 ### 🔥 Other Powerful Features:
 - **IP Reversing**: Identify and track IP addresses with ease.
