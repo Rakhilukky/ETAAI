@@ -1,4 +1,4 @@
-# 🌐 ElenTina Advance Artificial Intelligence (ETAAI) 💻
+# 🌐 ElenTina Advance Artificial Intelligence (ETA-I) 💻
 
 
 [![Current Version](https://img.shields.io/badge/version-0.4-blue)](https://github.com/Rakhilukky/ETAAI/releases)
